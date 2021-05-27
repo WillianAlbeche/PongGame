@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD132CF7265FDC060089B151 /* Roose Sally.otf in Resources */ = {isa = PBXBuildFile; fileRef = CD132CF6265FDC060089B151 /* Roose Sally.otf */; };
 		CD1FA7FA265D84F100B615B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1FA7F9265D84F100B615B7 /* AppDelegate.swift */; };
 		CD1FA7FC265D84F100B615B7 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CD1FA7FB265D84F100B615B7 /* GameScene.sks */; };
 		CD1FA7FE265D84F100B615B7 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = CD1FA7FD265D84F100B615B7 /* Actions.sks */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD132CF6265FDC060089B151 /* Roose Sally.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roose Sally.otf"; sourceTree = "<group>"; };
 		CD1FA7F6265D84F100B615B7 /* PongGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PongGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD1FA7F9265D84F100B615B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD1FA7FB265D84F100B615B7 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		CD1FA7F8265D84F100B615B7 /* PongGame */ = {
 			isa = PBXGroup;
 			children = (
+				CD132CF6265FDC060089B151 /* Roose Sally.otf */,
 				CD1FA7F9265D84F100B615B7 /* AppDelegate.swift */,
 				CD1FA7FB265D84F100B615B7 /* GameScene.sks */,
 				CD1FA7FD265D84F100B615B7 /* Actions.sks */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD132CF7265FDC060089B151 /* Roose Sally.otf in Resources */,
 				CD1FA805265D84F100B615B7 /* Main.storyboard in Resources */,
 				CD1FA7FC265D84F100B615B7 /* GameScene.sks in Resources */,
 				CD1FA807265D84F300B615B7 /* Assets.xcassets in Resources */,
