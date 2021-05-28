@@ -1,7 +1,7 @@
 # PongGame
 Pong game in spriteKit
 
-
+- Please to better experience, use the ipad simulator
 
 
 
