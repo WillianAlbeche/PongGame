@@ -133,7 +133,6 @@ class GameScene: SKScene {
             break
         }
         
-        enemy.run(SKAction.moveTo(x: ball.position.x, duration: 1.0))
         
         if ball.position.y <= main.position.y - 30 {
             addScore(playerWon: enemy)
